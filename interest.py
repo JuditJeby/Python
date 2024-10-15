@@ -1,0 +1,5 @@
+principle=int(input("Enter the principle value: "))
+number_of_years=int(input("Enter the no of years: "))
+rate_of_interest=int(input("Enter the rate of interest: "))
+simple_interest=(principle*number_of_years*rate_of_interest)
+print("The simple interest is",simple_interest)
