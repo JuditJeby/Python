@@ -1,3 +1,12 @@
+"""Author- Judit Jeby
+created on 15/10/2024
+Program to find the larger number
+"""
+  
+
+
+
+
 num1=int(input("Enter the first number:"))
 num2=int(input("Enter the second number:"))
 if num1>num2:
