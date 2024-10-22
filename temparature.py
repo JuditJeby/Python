@@ -1,3 +1,9 @@
+"""Author -Judit Jeby
+   Created on 22/10/24
+   Pyhton program about converting celsious to fahrenheit
+"""
+
+
 temp=int(input("Enter  temperatue :"))
 unit=input("Is this in (C)elsius or (F)ahrenheit?")
 
